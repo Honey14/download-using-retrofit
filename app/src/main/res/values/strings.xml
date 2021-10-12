@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DownloadUsingRetrofit</string>
+    <string name="download_the_file">Click to Download the file</string>
 </resources>
